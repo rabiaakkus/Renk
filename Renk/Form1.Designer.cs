@@ -32,6 +32,9 @@
             btnMavi = new Button();
             btnKirmizi = new Button();
             btnSari = new Button();
+            textBox1 = new TextBox();
+            label1 = new Label();
+            btnClear = new Button();
             SuspendLayout();
             // 
             // btnYesil
@@ -74,11 +77,41 @@
             btnSari.UseVisualStyleBackColor = true;
             btnSari.Click += btnSari_Click;
             // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(112, 138);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(200, 30);
+            textBox1.TabIndex = 6;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(56, 141);
+            label1.Name = "label1";
+            label1.Size = new Size(28, 20);
+            label1.TabIndex = 7;
+            label1.Text = "Ad";
+            // 
+            // btnClear
+            // 
+            btnClear.Location = new Point(112, 183);
+            btnClear.Name = "btnClear";
+            btnClear.Size = new Size(200, 29);
+            btnClear.TabIndex = 8;
+            btnClear.Text = "Temizle";
+            btnClear.UseVisualStyleBackColor = true;
+            btnClear.Click += btnClear_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(446, 204);
+            ClientSize = new Size(446, 596);
+            Controls.Add(btnClear);
+            Controls.Add(label1);
+            Controls.Add(textBox1);
             Controls.Add(btnSari);
             Controls.Add(btnKirmizi);
             Controls.Add(btnMavi);
@@ -86,6 +119,7 @@
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -94,5 +128,8 @@
         private Button btnMavi;
         private Button btnKirmizi;
         private Button btnSari;
+        private TextBox textBox1;
+        private Label label1;
+        private Button btnClear;
     }
 }

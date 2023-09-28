@@ -29,5 +29,10 @@ namespace Renk
         {
             btnSari.BackColor = Color.Yellow;
         }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = ""; // TextBox'ý temizle
+        }
     }
 }
