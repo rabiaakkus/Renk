@@ -1,0 +1,16 @@
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.Form1.resources
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.csproj.GenerateResource.cache
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.AssemblyInfoInputs.cache
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.AssemblyInfo.cs
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.csproj.CoreCompileInputs.cache
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\bin\Debug\net6.0-windows\Renk.exe
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\bin\Debug\net6.0-windows\Renk.deps.json
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\bin\Debug\net6.0-windows\Renk.runtimeconfig.json
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\bin\Debug\net6.0-windows\Renk.dll
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\bin\Debug\net6.0-windows\Renk.pdb
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.dll
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\refint\Renk.dll
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.pdb
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\Renk.genruntimeconfig.cache
+D:\Full Stack .NET Developer BootCamp Videos\Projects\Renk\Renk\obj\Debug\net6.0-windows\ref\Renk.dll
